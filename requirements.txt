@@ -1,0 +1,8 @@
+tqdm
+lxml
+pandas
+numpy
+scipy
+opentsne
+scikit-learn
+sentence-transformers
