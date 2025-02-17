@@ -1,0 +1,35 @@
+{
+    "dataset_id": "XP-33K",
+    "type": "PRE_GENERATED",
+    "status": "COMPLETED",
+    "datetime_created": "2024-10-01",
+    "datetime_updated": "2024-10-01",
+    
+    "title": "PD-1 and PD-L1",
+    "description": "This dataset contains the data of PD-1 and PD-L1 studies.",
+    "total_records": 33331,
+
+    "data_uris": {
+        "points_data_uri": "/dataset/medviz/xp-33k.tsv",
+        "topic_data_uri": ""
+    },
+
+    "config": {
+        "color_scale": "by_attr_color",
+        "size_scale": "by_size_attribute",
+        "size_scale_factor": 1.5,
+
+        "color_legend": [
+            { "color": "#037758", "label": "Regulatory T Cell Induction and Immune Modulation" },
+            { "color": "#882507", "label": "Antibody Binding and Protein Imaging Studies" },
+            { "color": "#0c637f", "label": "Immune Biomarkers and Disease Correlations" },
+            { "color": "#6acff1", "label": "Rare Case Reports of Malignant Lesions, Such as Lymphoma and Brain Tumors" },
+            { "color": "#ffd166", "label": "Immunotherapies and Combination Treatments for Cancer" },
+            { "color": "#83d483", "label": "Cancer Immunotherapy Response (ICIs) and Survival Outcomes" },
+            { "color": "#ef476f", "label": "Cellular Immune Responses and Immune Exhaustion in Viral Infections" },
+            { "color": "#5b0269", "label": "Genomic Alterations and Tumor Mutational Burden in Colorectal Cancer" },
+            { "color": "#40f2e9", "label": "Tumor Expression Profiles and Survival Prediction" },
+            { "color": "#020e13", "label": "Gene Expression Signatures and Immune Pathways in Cancer, Espetially HCC" }
+        ]
+    }
+}
