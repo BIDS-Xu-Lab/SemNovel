@@ -2,6 +2,10 @@
 
 A New Approach to Detecting Semantic Novelty of Biomedical Publications using Embeddings of Large Language Models
 
+## Visualization
+
+The prototype of our proposed interface as well as a sample dataset are available at https://clinicalnlp.org/SemNovel.
+
 ## Installation
 
 Clone the repository and set up the environment:
