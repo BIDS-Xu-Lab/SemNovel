@@ -4,7 +4,9 @@ A New Approach to Detecting Semantic Novelty of Biomedical Publications using Em
 
 ## Visualization
 
-The prototype of our proposed interface as well as a sample dataset are available at https://clinicalnlp.org/SemNovel.
+The prototype of our proposed interface as well as a sample dataset are available at https://clinicalnlp.org/SemNovel/.
+
+![alt text](./docs/image.png)
 
 ## Installation
 

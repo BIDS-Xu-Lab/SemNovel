@@ -10,8 +10,8 @@
     "total_records": 33331,
 
     "data_uris": {
-        "points_data_uri": "/dataset/medviz/xp-33k.tsv",
-        "topic_data_uri": ""
+        "points_data_uri": "xp-33k.tsv",
+        "topic_data_uri": "xp-33k.topics.json"
     },
 
     "config": {
